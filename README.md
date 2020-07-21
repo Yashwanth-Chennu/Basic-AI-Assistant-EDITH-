@@ -3,10 +3,14 @@
 
 
 Basic AI Assistant Using Python Programming 
+
+
   A code Sample for the creating a basic Artificial Intelligence with Commands:
+  
+  
     TextToSpeech, Date, Time, Greetings, SpeechRecognition, Wikipedia Search, Google Search, To send mail, jokes, to capture Screenshots, remember something, shutdown, logout, restart.
     
----
+
 
 # License & Copyright
 © Yashwanth Chennu, 2020
