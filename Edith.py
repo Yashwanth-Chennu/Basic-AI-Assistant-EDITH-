@@ -92,8 +92,8 @@ def sendMail(to, content): #to send mail
     server = smtplib.SMTP("smtp.gmail.com", 587)
     server.echlo()
     server.starttls()
-    server.login("yashwanthchennu1412@gmail.com","1ly2iww3bg")
-    server.sendmail("yashwanthchennu1412@gmail.com", to, content)
+    server.login("xyz@gmail.com","password")
+    server.sendmail("xyz@gmail.com", to, content)
     server.close()
 
 def jokes(): #generate jokes
